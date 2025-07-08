@@ -38,3 +38,6 @@ Export results to CSV
 Run deep scans via Nmap from inside the GUI
 
 Generate a visual map of discovered services (with NetworkX)
+
+![image](https://github.com/user-attachments/assets/fe98ac35-510f-4c01-9ab1-9dde4b0d6e1f)
+
