@@ -40,4 +40,5 @@ Run deep scans via Nmap from inside the GUI
 Generate a visual map of discovered services (with NetworkX)
 
 ![image](https://github.com/user-attachments/assets/fe98ac35-510f-4c01-9ab1-9dde4b0d6e1f)
+<img width="1347" height="910" alt="image" src="https://github.com/user-attachments/assets/f2298436-1b3b-4075-ac7c-94865462869f" />
 
